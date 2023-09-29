@@ -1,1 +1,34 @@
+Script started on 2023-09-29 13:32:47-04:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="105" LINES="19"]
+rflorence@RyanFlo: ~/CS2400[01;32mrflorence@RyanFlo[00m:[01;34m~/CS2400[00m$ g++ W[K-Wall lab5-temp.cc
+[?2004l
+[?2004h]0;rflorence@RyanFlo: ~/CS2400[01;32mrflorence@RyanFlo[00m:[01;34m~/CS2400[00m$ g++ -Wall lab5-temp.ccit clone <https://github.com/2400-fl-23/02-hw-word-count-rflorence6.git> .
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kgit clone <https://github.com/2400-fl-23/02-hw-word-count-rflorence6.git>
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C++ -Wall practice.cc[K[14P./a.out
+[?2004l
+
+Enter the highest and lowest temperatures of the days: 
+23
+45
+76
+12
+54
+78
+23
+54
+21
+34
+95
+76
+-100
+
+The highest temperature is: 95 degrees
+The lowest temperature is: 21 degrees
+
+[?2004h]0;rflorence@RyanFlo: ~/CS2400[01;32mrflorence@RyanFlo[00m:[01;34m~/CS2400[00m$ 
+[K]0;rflorence@RyanFlo: ~/CS2400[01;32mrflorence@RyanFlo[00m:[01;34m~/CS2400[00m$ 
+[K]0;rflorence@RyanFlo: ~/CS2400[01;32mrflorence@RyanFlo[00m:[01;34m~/CS2400[00m$ [?2004l
+
+exit
+
+Script done on 2023-09-29 13:34:45-04:00 [COMMAND_EXIT_CODE="0"]
 
